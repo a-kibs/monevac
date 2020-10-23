@@ -1,0 +1,30 @@
+{
+  "name": "monevac",
+  "version": "1.0.0",
+  "description": "Test task \"Monevac contact page\" [Mono.Digital]",
+  "main": "index.js",
+  "scripts": {
+    "test": "\\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-kibs/monevac.git"
+  },
+  "keywords": [
+    "test-task"
+  ],
+  "author": "Alexey Smolyaninov <lehas13@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-kibs/monevac/issues"
+  },
+  "homepage": "https://github.com/a-kibs/monevac#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.1.0",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^5.2.0",
+    "webpack-cli": "^4.1.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
